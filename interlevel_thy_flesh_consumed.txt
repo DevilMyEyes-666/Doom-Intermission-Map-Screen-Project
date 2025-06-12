@@ -1,0 +1,50 @@
+===========================================================================
+Advanced engine needed  : 
+Primary purpose         : No levels included
+===========================================================================
+Title                   : Thy Flesh Consumed Intermission Map Screen
+Filename                : interlevel_thy_flesh_consumed.wad
+Release date            : v1.0: July 1, 2024
+                        : v1.1: May 19, 2025
+Version                 : 1.1
+Author                  : DevilMyEyes
+Email address           : N/A
+Other files by author   : interlevel_sigil1.wad, interlevel_sigil2.wad, interlevel_doom2.wad
+Misc. author info       : N/A
+
+Description             : N/A
+
+Additional credits to   : N/A
+
+===========================================================================
+* What is included *
+
+New levels              : None
+Sounds                  : No
+Music                   : No
+Graphics                : Yes
+Dehacked/BEX patch      : N/A
+Demos                   : No
+Other                   : N/A
+Other files required    : None
+
+* Play Information *
+
+Game                    : DOOM
+Map #                   : N/A
+Single Player           : N/A
+Cooperative 2-4 Player  : N/A
+Deathmatch 2-4 Player   : N/A
+Other game styles       : N/A
+Difficulty Settings     : N/A
+
+* Construction *
+Base                    : N/A
+Build Time              : N/A
+Editor(s) used          : N/A
+May Not Run With        : N/A
+Tested With             : N/A
+
+* Copyright / Permissions *
+
+N/A
