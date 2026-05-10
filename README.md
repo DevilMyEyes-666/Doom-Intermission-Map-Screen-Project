@@ -44,6 +44,8 @@ Twitter - https://x.com/DevilMyEyes
 
 Support me on Ko-Fi! - https://ko-fi.com/devilmyeyes
 
+Join the discord server! https://discord.gg/ZJWMBnz2WP
+
 # Notes
 
 Doom 2 Intermission Map Screen features an episodic structure based on the old versions of SETUP.EXE give names for these episodes.
