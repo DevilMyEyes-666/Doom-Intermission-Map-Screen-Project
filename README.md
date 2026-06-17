@@ -50,4 +50,4 @@ Join the discord server! https://discord.gg/ZJWMBnz2WP
 
 Doom 2 Intermission Map Screen features an episodic structure based on the old versions of SETUP.EXE give names for these episodes.
 
-Final Doom Intermission Map Screens are yet to be made ;)
+Added the first 6 maps to Plutonia and TNT Intermission maps! Still a demo version of it.
